@@ -14,29 +14,32 @@ More info about the properties can be found on the `Minecraft wiki <http://minec
 
 .. code::
 
-    server-name=Minecraft: PE Server
+    server-name= BeeHub
     server-port=19132
     memory-limit=256M
     gamemode=0
-    max-players=20
+    max-players=50
     spawn-protection=16
     white-list=off
     enable-query=on
-    enable-rcon=off
+    enable-rcon=on
     motd=Minecraft: PE Server
     announce-player-achievements=on
     allow-flight=off
-    spawn-animals=on
+    spawn-animals=off
     spawn-mobs=on
     force-gamemode=off
     hardcore=off
-    pvp=on
+    pvp=off
     difficulty=1
     generator-settings=
+
+
+
     level-name=world
     level-seed=
-    level-type=DEFAULT
-    rcon.password=lT47ZUZs8L
+    level-type=Flat
+    rcon.password=123abc
     auto-save=on
 
 
